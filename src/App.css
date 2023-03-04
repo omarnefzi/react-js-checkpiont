@@ -1,0 +1,11 @@
+.div{
+  color: rgb(129, 10, 129);
+}
+.data{
+  display: flex;
+  justify-content: center;
+
+}
+.green{
+  color: green;
+}
